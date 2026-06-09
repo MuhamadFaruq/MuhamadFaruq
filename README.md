@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Faruq 👋
 
-<!--
-**MuhamadFaruq/MuhamadFaruq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Informatics student and a passionate developer focusing on building mobile and web applications.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+- **Languages:** PHP, Dart, JavaScript, HTML/CSS
+- **Frameworks:** Laravel, Flutter
+- **Tools:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- **SIPEKA** - Personal finance management application.
+- **Ngampus_Rate** - University-related survey and rating system.
+
+### 📫 Connect with me
+- LinkedIn: [Your-LinkedIn-URL]
+- Email: [Your-Email-Address]
